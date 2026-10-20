@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+things+end-to-end;Frontend+%7C+Backend+%7C+DevOps;Clean+code%2C+shipped+fast;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/CatIT417">
-    <img src="https://komarev.com/ghpvc/?username=CatIT417&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -69,14 +63,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CatIT417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatIT417&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatIT417&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CatIT417&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
 ---
