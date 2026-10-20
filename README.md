@@ -87,7 +87,6 @@
 
 <p align="center">
   <a href="https://github.com/CatIT417"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://floridarvman.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/CatIT417">CatIT417</a> — thanks for stopping by!</i></p>
